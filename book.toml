@@ -1,0 +1,6 @@
+[book]
+authors = ["Ayoub EL Mhamdi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "test1"
